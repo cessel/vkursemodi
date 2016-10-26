@@ -1,0 +1,10 @@
+User-agent: *
+# wa shop zapis-na-master-klassy/*
+Disallow: /zapis-na-master-klassy/my/
+Disallow: /zapis-na-master-klassy/checkout/
+# wa shop
+Disallow: /*
+# wa shop shop/*
+# Disallow: /shop/my/
+# Disallow: /shop/checkout/
+# wa shop
